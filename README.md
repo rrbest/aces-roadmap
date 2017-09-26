@@ -79,7 +79,7 @@ The Bitcoin Listener Relay Node works just like the Ark Listener Relay Node and 
 
 ### Formless Functions
 
-Formless Functions allow users to execute ACES services directly from an Ark transaction by including specially formatted text into the SmartBridge data field. Example: Smartbridge text sent to a listener reading ‘Send 1 btc to 0x238h32f8h23f’ would be accepted.
+Formless Functions allow users to execute ACES services directly from an Ark transaction by including specially formatted text into the SmartBridge data field. Example: Smartbridge text sent to a listener reading ‘Send 1 btc to 1a238h32f8h23f’ would be accepted.
 
 
 ### IPFS Listener Relay Node and IPFS Service
